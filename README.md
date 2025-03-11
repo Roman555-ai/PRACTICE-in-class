@@ -1,1 +1,6 @@
-# PRACTICE-in-class
+#include <stdio.h>
+
+int main(){
+  print("Hello\n");
+  return 0;
+)
